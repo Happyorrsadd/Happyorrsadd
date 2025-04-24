@@ -40,8 +40,9 @@
 ---
 
 ## 📊 GitHub Stats
+---
 
 ![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=tokyonight&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=Happyorrsadd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-
+---
