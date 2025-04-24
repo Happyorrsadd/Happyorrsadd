@@ -17,7 +17,7 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/oğulcan-doğan-a8b18420b)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/oğulcan-doğan-a8b18420b)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/0gulcandogan)
 
 ---
@@ -26,22 +26,21 @@
 
 **Cloud & Infra:**  
 ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![GCP](https://skillicons.dev/icons?i=gcp)  
-![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux)  
-![Terraform](https://skillicons.dev/icons?i=terraform) ![Ansible](https://skillicons.dev/icons?i=ansible)
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux)
 
 **Languages & Dev:**  
 ![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) ![C++](https://skillicons.dev/icons?i=cpp) ![Node.js](https://skillicons.dev/icons?i=nodejs)  
 
 **Game Dev:**  
-![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal)  
-![GameLift](https://upload.wikimedia.org/wikipedia/commons/0/0e/Amazon_GameLift_logo.svg)
+![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal)
 
 **CI/CD & Tools:**  
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
 ## 📊 GitHub Stats
+---
 
 ![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=tokyonight&hide_border=true)
 
