@@ -19,7 +19,6 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/oğulcan-doğan-a8b18420b)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/0gulcandogan)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/happyorsadd)
 
 ---
 
@@ -36,7 +35,7 @@
 ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal)
 
 **CI/CD & Tools:**  
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Jira](https://skillicons.dev/icons?i=jira) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
