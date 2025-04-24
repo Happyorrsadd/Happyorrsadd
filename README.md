@@ -1,66 +1,72 @@
-<h1 align="center">Hi 👋, I'm 0gulcandogan</h1>
-<h3 align="center">Cloud Security Enthusiast | Architect | Cloud Game Developer</h3>
+<h1 align="center">👋 Hi, I'm 0gulcandogan</h1>
+<h3 align="center">Cloud Security Enthusiast | Cloud Architect | Cloud Game Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0gulcandogan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=0gulcandogan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
-🔐 I'm passionate about **Cloud Security** and **Architecture**.  
-🎮 I also enjoy optimizing and building **cloud-powered games**.  
-📚 Currently studying for **AWS Certified Security - Specialty**.  
-🧠 Learning about **Generative AI, LLMs, and Foundation Models on AWS**.  
-💬 Ask me about anything related to **AWS, GCP, DevSecOps, or CloudSec**.  
-📫 Reach me at: **ogulcandogannz@outlook.com**
+🚀 **About Me**  
+- 🔭 Currently working on **AWS Certified Security - Specialty**  
+- 🌱 Exploring **Generative AI, LLMs, and Foundation Models on AWS**  
+- 🧠 Passionate about **Cloud Security, Architecture, DevSecOps, and Game Development**  
+- 💬 Ask me about: `AWS`, `GCP`, `DevSecOps`, `Cloud Security`  
+- 📫 Reach me at: **ogulcandogannz@outlook.com**
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/0gulcandogan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://linkedin.com/in/oğulcan-doğan-a8b18420b" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/o%C4%9Fulcan-do%C4%9Fan-a8b18420b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://twitter.com/0gulcandogan" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" />
   </a>
-  <a href="https://instagram.com/happyorsadd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/happyorsadd" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" />
   </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tools & Technologies
 
-#### ☁️ Cloud Platforms  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP"/>
+#### ☁️ Cloud Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" />
+</p>
 
-#### 🛠 Dev & Scripting  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby"/>
+#### 🔒 DevSecOps & Security
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" />
+</p>
 
-#### 🧱 Tools & Infrastructure  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
+</p>
 
-#### 🎮 Game Dev  
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity"/>
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40" height="40" alt="Unreal Engine"/>
+#### 🎮 Game Development
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" />
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Happyorrsadd&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happyorrsadd&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=radical" alt="0gulcandogan GitHub Stats" />
 </p>
