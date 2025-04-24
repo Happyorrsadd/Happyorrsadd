@@ -35,7 +35,7 @@
 ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal)
 
 **CI/CD & Tools:**  
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
