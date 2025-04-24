@@ -1,66 +1,52 @@
-<h1 align="center">👋 Hey there, I'm Oğulcan Doğan</h1>
-<h3 align="center">☁️ Cloud Security Enthusiast | 🛡️ Cloud Architect | 🎮 Cloud Game Developer</h3>
+<h1 align="center">🌩️ Oğulcan Doğan</h1>
+<h3 align="center">Cloud Security | DevSecOps | Game Dev on the Cloud 🎮☁️</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0gulcandogan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Cloud+Security+Enthusiast;🎮+Cloud-Native+Game+Developer;☁️+AWS+Certified+%7C+DevSecOps+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🧠 Focused on **Cloud Security**, **DevSecOps**, and **Cloud Architecture**
-- 🔒 Currently preparing for **AWS Certified Security – Specialty**
-- 🧪 Exploring **LLMs**, **Generative AI**, and **Foundation Models on AWS**
-- 💬 Ask me about: `AWS`, `GCP`, `Cloud Security`, `DevSecOps`, `Serverless`, `Cloud Gaming`
-- 📬 Reach me: **ogulcandogannz@outlook.com**
+### 🌟 About Me
+
+- 🛡️ AWS Security Specialty + DevSecOps focus  
+- 🧠 Curious about: GenAI, LLMs, Serverless AI Agents  
+- 🎮 Love building cloud-native multiplayer games  
+- 🧰 Always learning, always shipping  
+- 📫 Reach me at: **ogulcandogannz@outlook.com**
 
 ---
 
-### 🌐 Connect With Me
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/oğulcan-doğan-a8b18420b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/0gulcandogan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
   <a href="https://instagram.com/happyorsadd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Tech Stack
 
-#### ☁️ Cloud Platforms
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,nodejs,ruby" /><br>
+  <img src="https://skillicons.dev/icons?i=unity,unreal" />
 </p>
 
-#### 🔐 DevSecOps & Security
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" />
-</p>
+---
 
-#### 💻 Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" />
-</p>
+### ⚙️ Tools I Use
 
-#### 🎮 Game Development
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Unreal_Engine_Logo.svg" alt="Unreal" width="45" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,github,figma,postman" />
 </p>
 
 ---
@@ -68,14 +54,32 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=radical&border_radius=10" alt="0gulcandogan GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0gulcandogan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+### 🧩 Fun Projects
 
-> I love exploring how **AI and gaming** can intersect with **cloud infrastructure**. Let’s build the next-gen cloud-native games together! 🚀
+- 🎯 **Cloud-native Minecraft Server on AWS GameLift**  
+- 🕵️‍♂️ AI for vulnerability detection in cloud assets  
+- 🛠️ DevSecOps pipelines with Qualys, Jira, GitHub Actions  
 
 ---
 
+### ✨ Quote I Live By
+> “Security is not a product, but a process.” – Bruce Schneier
+
+---
+
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/0gulcandogan/aws-gamelift-minecraft">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0gulcandogan&repo=aws-gamelift-minecraft&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/0gulcandogan/devsecops-automation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0gulcandogan&repo=devsecops-automation&theme=tokyonight" />
+  </a>
+</p>
