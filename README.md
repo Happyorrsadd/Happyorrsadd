@@ -1,4 +1,3 @@
-# 0gulcandogan
 <h1 align="center">Hi 👋, I'm 0gulcandogan</h1>
 <h3 align="center">Hi, I'm interested in Cloud Security, Architecting, and cloud-based game development. I focus on creating secure architectures in cloud environments, implementing best practices, and optimizing games on cloud infrastructure. I aim to develop innovative solutions in projects by staying updated with new technologies.</h3>
 
