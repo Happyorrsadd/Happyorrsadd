@@ -29,13 +29,14 @@
 ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux)
 
 **Languages & Dev:**  
-![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) ![C++](https://skillicons.dev/icons?i=cpp) ![Node.js](https://skillicons.dev/icons?i=nodejs)  
+![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) ![C++](https://skillicons.dev/icons?i=cpp) ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
 **Game Dev:**  
 ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal)
 
 **CI/CD & Tools:**  
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![CircleCI](https://skillicons.dev/icons?i=circleci) ![Travis CI](https://skillicons.dev/icons?i=travis) ![GitLab CI](https://skillicons.dev/icons?i=gitlab)  
+![Postman](https://skillicons.dev/icons?i=postman) ![Terraform](https://skillicons.dev/icons?i=terraform) ![Ansible](https://skillicons.dev/icons?i=ansible)
 
 ---
 
