@@ -1,85 +1,47 @@
-<h1 align="center">🌩️ Oğulcan Doğan</h1>
-<h3 align="center">Cloud Security | DevSecOps | Game Dev on the Cloud 🎮☁️</h3>
+# Oğulcan Doğan  
+**Cloud Security Engineer | DevSecOps | Cloud Game Developer**  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Cloud+Security+Enthusiast;🎮+Cloud-Native+Game+Developer;☁️+AWS+Certified+%7C+DevSecOps+Architect" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&width=435&lines=🚀+Cloud+Security+Enthusiast;🎮+Cloud-Native+Game+Developer;☁️+AWS+Certified+%7C+DevSecOps+Architect)
 
 ---
 
-### 🌟 About Me
+## 👨‍💻 About Me
 
-- 🛡️ AWS Security Specialty + DevSecOps focus  
-- 🧠 Curious about: GenAI, LLMs, Serverless AI Agents  
-- 🎮 Love building cloud-native multiplayer games  
-- 🧰 Always learning, always shipping  
-- 📫 Reach me at: **ogulcandogannz@outlook.com**
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/oğulcan-doğan-a8b18420b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/0gulcandogan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/happyorsadd" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-</p>
+- 🛡️ Passionate about **Cloud Security** and **DevSecOps**
+- 🎮 Developing cloud-native multiplayer games  
+- ☁️ AWS Certified Solutions Architect – Associate  
+- 🧠 Interested in GenAI, serverless security, and Red Team automation  
+- 📫 Reach me at: `ogulcandogannz@outlook.com`
 
 ---
 
-### 🧠 Tech Stack
+## 🔗 Connect with Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,bash" /><br>
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,nodejs,ruby" /><br>
-  <img src="https://skillicons.dev/icons?i=unity,unreal" />
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/oğulcan-doğan-a8b18420b)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/0gulcandogan)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/happyorsadd)
 
 ---
 
-### ⚙️ Tools I Use
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,github,figma,postman" />
-</p>
+**Cloud & Infra:**  
+![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![GCP](https://skillicons.dev/icons?i=gcp)  
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux)
 
----
+**Languages & Dev:**  
+![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) ![C++](https://skillicons.dev/icons?i=cpp) ![Node.js](https://skillicons.dev/icons?i=nodejs)  
 
-### 📊 GitHub Stats
+**Game Dev:**  
+![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=0gulcandogan&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🧩 Fun Projects
-
-- 🎯 **Cloud-native Minecraft Server on AWS GameLift**  
-- 🕵️‍♂️ AI for vulnerability detection in cloud assets  
-- 🛠️ DevSecOps pipelines with Qualys, Jira, GitHub Actions  
+**CI/CD & Tools:**  
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Jira](https://skillicons.dev/icons?i=jira) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
-### ✨ Quote I Live By
-> “Security is not a product, but a process.” – Bruce Schneier
+## 📊 GitHub Stats
 
----
+![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=tokyonight&hide_border=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=0gulcandogan&theme=tokyonight&hide_border=true)
 
-### 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/0gulcandogan/aws-gamelift-minecraft">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0gulcandogan&repo=aws-gamelift-minecraft&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/0gulcandogan/devsecops-automation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0gulcandogan&repo=devsecops-automation&theme=tokyonight" />
-  </a>
-</p>
