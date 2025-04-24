@@ -36,8 +36,7 @@
 ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal) ![GameLift](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Amazon_GameLift_logo.svg/1200px-Amazon_GameLift_logo.svg.png)
 
 **CI/CD & Tools:**  
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
-
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman) 
 ---
 
 ## 📊 GitHub Stats
