@@ -1,66 +1,66 @@
-<h1 align="center">👋 Hi, I'm 0gulcandogan</h1>
-<h3 align="center">Cloud Security Enthusiast | Cloud Architect | Cloud Game Developer</h3>
+<h1 align="center">👋 Hey there, I'm Oğulcan Doğan</h1>
+<h3 align="center">☁️ Cloud Security Enthusiast | 🛡️ Cloud Architect | 🎮 Cloud Game Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0gulcandogan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=0gulcandogan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-🚀 **About Me**  
-- 🔭 Currently working on **AWS Certified Security - Specialty**  
-- 🌱 Exploring **Generative AI, LLMs, and Foundation Models on AWS**  
-- 🧠 Passionate about **Cloud Security, Architecture, DevSecOps, and Game Development**  
-- 💬 Ask me about: `AWS`, `GCP`, `DevSecOps`, `Cloud Security`  
-- 📫 Reach me at: **ogulcandogannz@outlook.com**
+### 🚀 About Me
+- 🧠 Focused on **Cloud Security**, **DevSecOps**, and **Cloud Architecture**
+- 🔒 Currently preparing for **AWS Certified Security – Specialty**
+- 🧪 Exploring **LLMs**, **Generative AI**, and **Foundation Models on AWS**
+- 💬 Ask me about: `AWS`, `GCP`, `Cloud Security`, `DevSecOps`, `Serverless`, `Cloud Gaming`
+- 📬 Reach me: **ogulcandogannz@outlook.com**
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/oğulcan-doğan-a8b18420b" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+<p align="center">
+  <a href="https://linkedin.com/in/oğulcan-doğan-a8b18420b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/0gulcandogan" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" />
+  <a href="https://twitter.com/0gulcandogan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/happyorsadd" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" />
+  <a href="https://instagram.com/happyorsadd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tech Stack
 
 #### ☁️ Cloud Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
 </p>
 
-#### 🔒 DevSecOps & Security
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" />
+#### 🔐 DevSecOps & Security
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" />
 </p>
 
 #### 💻 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" />
 </p>
 
 #### 🎮 Game Development
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" />
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" />
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Unreal_Engine_Logo.svg" alt="Unreal" width="45" />
 </p>
 
 ---
@@ -68,5 +68,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=radical" alt="0gulcandogan GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=radical&border_radius=10" alt="0gulcandogan GitHub Stats" />
 </p>
+
+---
+
+### ⚡ Fun Fact
+
+> I love exploring how **AI and gaming** can intersect with **cloud infrastructure**. Let’s build the next-gen cloud-native games together! 🚀
+
+---
+
