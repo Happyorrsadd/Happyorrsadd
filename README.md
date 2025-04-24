@@ -11,14 +11,14 @@
 - 🎮 Developing cloud-native multiplayer games  
 - ☁️ AWS Certified Solutions Architect – Associate  
 - 🧠 Interested in GenAI, serverless security, and Red Team automation  
-- 📫 Reach me at: `ogulcandogannz@outlook.com`
+- 📫 Reach me at: ogulcandogannz@outlook.com
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/oğulcan-doğan-a8b18420b)  
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/0gulcandogan)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/oğulcan-doğan-a8b18420b)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/0gulcandogan)
 
 ---
 
@@ -26,9 +26,7 @@
 
 **Cloud & Infra:**  
 ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![GCP](https://skillicons.dev/icons?i=gcp)  
-![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux)  
-![Terraform](https://skillicons.dev/icons?i=terraform) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Helm](https://skillicons.dev/icons?i=helm)  
-![Prometheus](https://skillicons.dev/icons?i=prometheus) ![Grafana](https://skillicons.dev/icons?i=grafana)  
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux)
 
 **Languages & Dev:**  
 ![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) ![C++](https://skillicons.dev/icons?i=cpp) ![Node.js](https://skillicons.dev/icons?i=nodejs)  
@@ -42,6 +40,7 @@
 ---
 
 ## 📊 GitHub Stats
+---
 
 ![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=tokyonight&hide_border=true)
 
