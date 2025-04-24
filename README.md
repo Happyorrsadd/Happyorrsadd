@@ -11,7 +11,7 @@
 - 🎮 Developing cloud-native multiplayer games  
 - ☁️ AWS Certified Solutions Architect – Associate  
 - 🧠 Interested in GenAI, serverless security, and Red Team automation  
-- 📫 Reach me at: `ogulcandogannz@outlook.com`
+- 📫 Reach me at: ogulcandogannz@outlook.com
 
 ---
 
@@ -34,7 +34,7 @@
 
 **Game Dev:**  
 ![Unity](https://skillicons.dev/icons?i=unity) ![Unreal](https://skillicons.dev/icons?i=unreal)  
-![GameLift](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Amazon_GameLift_logo.svg/1200px-Amazon_GameLift_logo.svg.png)
+![GameLift](https://upload.wikimedia.org/wikipedia/commons/0/0e/Amazon_GameLift_logo.svg)
 
 **CI/CD & Tools:**  
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Postman](https://skillicons.dev/icons?i=postman)
