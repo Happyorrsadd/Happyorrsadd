@@ -43,6 +43,6 @@
 ## 📊 GitHub Stats
 ---
 
-![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0gulcandogan&show_icons=true&theme=tokyonight&hide_border=true)
+![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happyorrsadd&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
