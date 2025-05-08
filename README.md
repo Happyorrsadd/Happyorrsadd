@@ -12,7 +12,8 @@
 - ☁️ AWS Certified Solutions Architect – Associate  
 - 🧠 Interested in GenAI, serverless security, and Red Team automation  
 - 📫 Reach me at: ogulcandogannz@outlook.com  
-- 👁️‍🗨️ **Profile Views:** ![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=Happyorrsadd&style=flat-square&color=blue)
+- 👁️‍🗨️ **Profile Views:** ![visitors](https://count.getloli.com/get/@Happyorrsadd?theme=moebooru)
+
 
 ---
 
