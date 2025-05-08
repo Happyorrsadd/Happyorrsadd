@@ -11,8 +11,7 @@
 - 🎮 Developing cloud-native multiplayer games  
 - ☁️ AWS Certified Solutions Architect – Associate  
 - 🧠 Interested in GenAI, serverless security, and Red Team automation  
-- 📫 Reach me at: ogulcandogannz@outlook.com  
-- 👁️‍🗨️ **Profile Views:** ![visitors](https://count.getloli.com/get/@Happyorrsadd?theme=moebooru)
+- 📫 Reach me at: ogulcandogannz@outlook.com
 
 
 ---
@@ -44,4 +43,4 @@
 
 ## 📊 GitHub Stats
 
-![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happyorrsadd&show_icons=true&theme=tokyonight&hide_border=true)
+![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happyorrsadd&show_icons=true&theme=tokyonight&hide_border=true)  - 👁️‍🗨️ **Profile Views:** ![visitors](https://count.getloli.com/get/@Happyorrsadd?theme=moebooru)
