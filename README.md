@@ -43,6 +43,6 @@
 
 ## 📊 GitHub Stats
 
-![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happyorrsadd&show_icons=true&theme=tokyonight&hide_border=true) **Profile Views:**  ![visitors](https://count.getloli.com/get/@Happyorrsadd?theme=moebooru)
+![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happyorrsadd&show_icons=true&theme=tokyonight&hide_border=true) **Profile Views:**  ![visitors](https://count.getloli.com/get/@Happyorrsadd?theme=rule34)
 
 
