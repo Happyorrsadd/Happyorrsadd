@@ -2,7 +2,7 @@
 **Cloud Security Engineer | DevSecOps | Cloud Game Developer**  
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&width=435&lines=🚀+Cloud+Security+Enthusiast;🎮+Cloud-Native+Game+Developer;☁️+AWS+Certified+%7C+DevSecOps+Architect)
-![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=Happyorrsadd) 
+
 ---
 
 ## 👨‍💻 About Me
@@ -11,7 +11,8 @@
 - 🎮 Developing cloud-native multiplayer games  
 - ☁️ AWS Certified Solutions Architect – Associate  
 - 🧠 Interested in GenAI, serverless security, and Red Team automation  
-- 📫 Reach me at: ogulcandogannz@outlook.com
+- 📫 Reach me at: ogulcandogannz@outlook.com  
+- 👁️‍🗨️ **Profile Views:** ![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=Happyorrsadd&style=flat-square&color=blue)
 
 ---
 
@@ -41,8 +42,5 @@
 ---
 
 ## 📊 GitHub Stats
----
 
 ![Oğulcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happyorrsadd&show_icons=true&theme=tokyonight&hide_border=true)
-
----
